@@ -1,5 +1,6 @@
 pyrogram
-py-tgcalls==0.9.7
+#py-tgcalls==0.9.7
+py-tgcalls==2.1.0
 parse-torrent-name
 tgcrypto
 yt-dlp
